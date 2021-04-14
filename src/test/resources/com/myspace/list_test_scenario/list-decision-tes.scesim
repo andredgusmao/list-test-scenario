@@ -51,7 +51,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>178.0</columnWidth>
+          <columnWidth>118.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -72,7 +72,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>178.0</columnWidth>
+          <columnWidth>118.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
